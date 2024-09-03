@@ -1,0 +1,11 @@
+Insiansi
+Tahun masuk panyo sebagai mahsiswa adalah 2022
+Tahun saat ini adalah 2024
+Semester saat ini adalah 4
+Proses
+Hitung selisih tahun antara tahun saat ini adalah 2024dan tahun masuk:
+selisihtahun= tahun saat ini - tahun masuk
+Hitung semester total yang telah dilalui:
+semester total = selisih tahun x 2 + semester saat ini
+Output:
+semester_total adalah semester yang sedang dijalani mahasiswa tersebut.
