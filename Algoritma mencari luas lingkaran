@@ -1,8 +1,8 @@
-input
-jari jari dalam cm
-luas dalam cm
-phi adalah 3,14
+inisiasi
+masukan nilai jari jari dalam cm
+masukan niai luas dalam cm^2
+jumlah phi adalah 3,14
 proses
-hitung luas =phixjarijarixjarijari
+hitung luas=phixjarijarixjarijari
 output
 tampilkan luas
